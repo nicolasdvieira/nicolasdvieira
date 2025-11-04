@@ -1,16 +1,36 @@
-## Hi there 👋
+ 👋 Hi, I'm Nicolas Vieira
 
-<!--
-**nicolasdvieira/nicolasdvieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data-driven Engineer | Python & SQL | Passionate about automation, analytics, and solving complex operational problems**
 
-Here are some ideas to get you started:
+Currently working as an **Automation Engineer at Stellantis**, building vision-based error-proofing systems, PLC/HMI automation, and data-driven tools to improve production efficiency and decision making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🔭 What I do
+- ⚙️ Design and implement automation systems (Siemens PLCs, HMIs, collaborative robots)  
+- 🐍 Develop Python solutions for data analysis, automation and vision (OpenCV)  
+- 🧾 Build dashboards and reporting pipelines with SQL and Power BI  
+- 🌐 Deliver Industry 4.0 projects: IoT data collection, traceability and digitalization
+
+---
+
+🛠️ Tech stack
+`Python` `SQL` `Power BI` `OpenCV` `Siemens PLC` `HMIs` `Power Automate` `Excel` `Robotics` `Figma`
+
+---
+
+🚀 Featured / upcoming projects
+
+
+---
+
+📚 Currently building
+
+
+---
+
+📫 Contact
+- Email: nicolasdvieira2@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/nicolasdvieira
+
+---
